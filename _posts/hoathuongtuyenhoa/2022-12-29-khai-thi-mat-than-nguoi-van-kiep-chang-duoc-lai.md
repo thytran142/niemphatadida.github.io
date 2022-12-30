@@ -1,6 +1,8 @@
 ---
 layout: post
 author: Hoà Thượng Tuyên Hoá
+category: Khai thị 
+tag: Hoà Thượng Tuyên Hoá
 ---
 
 ## Mất thân người vạn kiếp chẳng được lại
