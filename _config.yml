@@ -35,9 +35,8 @@ titles_from_headings:
   collections: true
 
 collections:
-  authors:
+  hoathuongtuyenhoa:
     output: true
-    permalink: /:collection/:name
 
 defaults:
   - scope:
