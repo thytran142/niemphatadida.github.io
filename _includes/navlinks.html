@@ -4,18 +4,10 @@
   <a class="post_navi-item nav_prev" href="{{ page.previous.url }}" title="{{ page.previous.title }}">
     <div class="post_navi-arrow">&lt;</div><div class="post_navi-label">Bài trước</div><div><span>{{ page.previous.title }}</span></div>
   </a>
-  {%- else -%}
-  <a class="post_navi-item nav_prev" href="{{ 'archive.html' | absolute_url }}" title="Blog Archive">
-    <div class="post_navi-arrow">&lt;</div><div class="post_navi-label">Tất cả những bài trước</div><div><span>Tất cả những bài trước</span></div>
-  </a>
   {%- endif -%}
   {%- if page.next.url -%}
   <a class="post_navi-item nav_next" href="{{ page.next.url }}" title="{{ page.next.title }}">
     <div class="post_navi-arrow">&gt;</div><div class="post_navi-label">Bài sau</div><div><span>{{ page.next.title }}</span></div>
-  </a>
-  {%- else -%}
-  <a class="post_navi-item nav_next" href="{{ 'archive.html' | absolute_url }}" title="Blog Archive">
-    <div class="post_navi-arrow">&gt;</div><div class="post_navi-label">Blogs</div><div><span>Những bài blog trước</span></div>
   </a>
   {%- endif -%}
 </div>
