@@ -44,6 +44,4 @@ defaults:
       path: ""
       type: post
     values:
-      tags:
-        - Khai thị
-        - Giảng kinh
+      tags: Những bài khác
