@@ -1,10 +1,9 @@
 ---
 layout: post
 author: Hoà Thượng Tuyên Hoá
+title: Mất thân người vạn kiếp chẳng được lại
 category: Khai thị
 ---
-
-## Mất thân người vạn kiếp chẳng được lại
 
 Hôm nay nói chuyện về sám hối trong đạo Phật, chư Phật và chư vị Bồ tát không nhìn vào lỗi của chúng sanh.
 Chúng sanh nếu có lỗi và tự làm ngơ đi Phật cũng chẳng để ý tới,

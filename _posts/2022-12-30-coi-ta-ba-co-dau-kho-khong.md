@@ -1,9 +1,10 @@
 ---
 layout: post
 author: Hoà Thượng Thích Giác Khang 
+title: Cõi ta bà này có đau khổ hay không?
 category: Khai Thị
 ---
-## Cõi ta bà này có đau khổ hay không?
+
 
 Thường thường chúng ta hiểu lầm cái cõi ta bà này là đau khổ. Thật ra không được đúng lắm. Cái đau khổ là do ở cái tâm, cái hiểu biết sai lầm của chúng ta. Chính linh hồn hiểu biết sai lầm này làm chúng ta đau khổ. Nếu chúng ta lầm xác thân này là tôi, cảm giác này là tôi, tư tưởng phân biệt là tôi, ý chí lựa chọn để hành động này là tôi và những kinh nghiệm kiến thức ký ức này là tôi thì cuộc đời mãi mãi đau khổ, không thể nào thoát được.
 

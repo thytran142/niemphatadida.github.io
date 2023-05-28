@@ -23,3 +23,6 @@ plugins:
   - jekyll-paginate
 paginate: 3
 paginate_path: "/page/:num/"
+show_excerpts: true
+excerpt_length: 20
+
