@@ -10,25 +10,25 @@ layout: default
   <header class="site-masthead">
     {% include menu.html %}
     {% if site.title %}
-      <h1>
+      <h3>
         {{ site.title }}
-      </h1>
+      </h3>
     {% endif %}
     {% if site.title %}
-      <h2>
+      <p>
         {{ site.description }}
-      </h2>
+      </p>
     {% endif %}
   </header>
 {% endif %}
 
-<main class="home" id="main" role="main" aria-label="Content">
+<main class="home" id="main" role="main" aria-label="Nội dung">
 
   <h1 class="content-title divided">
     {% if site.paginate and site.paginate_path and paginator.page > 1 %}
-      Page {{ paginator.page }}
+      Trang  {{ paginator.page }}
     {% else %}
-      Contents
+      Nội dung
     {% endif %}
   </h1>
 
@@ -44,13 +44,13 @@ layout: default
 
       <div class="post-pagination">
         {% if paginator.next_page %}
-          <a href="{{ paginator.next_page_path | prepend: site.baseurl  }}" class="pagination-next btn">&lang;&nbsp;Older</a>
+          <a href="{{ paginator.next_page_path | prepend: site.baseurl  }}" class="pagination-next btn">&lang;&nbsp;Cũ hơn</a>
         {% else %}
           <span>&nbsp;</span>
         {% endif %}
         <span class="pagination-number">{{ paginator.page }} of {{ paginator.total_pages }}</span>
         {% if paginator.previous_page %}
-          <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="pagination-previous btn">Newer&nbsp;&rang;</a>
+          <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="pagination-previous btn">Mới hơn&nbsp;&rang;</a>
         {% else %}
           <span>&nbsp;</span>
         {% endif %}
