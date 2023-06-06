@@ -28,11 +28,9 @@ Khi chúng ta nghe thấy tiếng nói, có nghĩa là âm thanh đi vào màng 
 
 Bỏ 1 cục đường vào cái lưỡi ta, cái gai lưỡi tiếp xúc nhưng chưa có cái biết, dây thần kinh vị giác mới tiếp xúc cái ngọt này mới rung động, nó cảm thấy dễ chịu. Cái cảm giác dễ chịu đưa lên bộ óc, dây thần kinh óc rung động, tư tưởng moi trong a lại da để trả lời là tại sao lại yêu thích hay có cảm giác dễ chịu, thì nếu 1 người thích ăn ngọt thì tưởng uẩn sẽ mượn bộ óc trả lời lý do có cảm giác dễ chịu. Đây là tiến trình hiện hành huân tập. Cuộc đời chúng ta chỉ có bấy nhiêu thôi. Khi chết rồi, mắt tai mũi lưỡi thân xác chết. Dây thần kinh thị giác, xúc giác thì 8 tiếng sau chết.
 
-```
-Cuộc đời giống một tuồng hát vậy. Khi sân khấu kéo rèm, nhân vật đã chết trên sân khấu sẽ lồm cồm bò dậy. Tất cả chỉ là ảo mộng, không thật.
+[Thầy Thích Giác Khang](https://www.youtube.com/watch?v=E2Vl2g04TuE&list=PLnJJuKevfNwV7HTo84f-xCMdg5F3mhoIm&index=3):
+>Cuộc đời giống một tuồng hát vậy. Khi sân khấu kéo rèm, nhân vật đã chết trên sân khấu sẽ lồm cồm bò dậy. Tất cả chỉ là ảo mộng, không thật.
 
-Thầy Thích Giác Khang (https://www.youtube.com/watch?v=E2Vl2g04TuE&list=PLnJJuKevfNwV7HTo84f-xCMdg5F3mhoIm&index=3)
-```
 
 Khi khỏi niệm Phật mà vẫn có tiếng niệm Phật thì oán các Pháp sẽ thấy ‘vô thường vô ngã khổ đau’, mà đã biết vô thường rồi thì cuộc đời giống 1 tuồng hát. 1 tuồng hát khi rã màn rồi, nhân vật đã chết rồi vẫn có thể bò dậy, nó chỉ là giấc chiêm bao mà thôi. Mà đã biết nó chỉ là tuồng hát rồi thì dù có cải sửa thành công hay thất bại thì nó vẫn là tuồng hát. Nhưng con người cho nó là thật, cải sửa thành công thì mừng rõ (tham), còn cải sửa thất bại thì mình buồn (sân) cuối cùng tuồng hát không có gì mà mình cứ tham sân tối ngày, là khổ đau tối ngày. Vậy do tuồng hát hay do mình? Là do mình mà thôi. Nếu chúng ta nghĩ cuộc đời không phải tuồng hát, thì chúng ta có thể làm chủ xác thân này không? Có thể trẻ mãi không, có thể sống mãi không, nhà cửa có còn hoài không? Xác thân này còn không phải của ta nữa, thì vợ con cái nào là của ta. Đi sâu vào cái thân này mình mới biết tiến trình, sắc uẩn (lấy hình tướng chưa có cái biết), rồi dây thần kinh tiếp xúc sự vật trên đó, mượn rung động dây thần kinh để cho cảm giác , rồi óc dùng tư tương để trả lời, mà tư tưởng là sự nhớ lại sự học hỏi trong linh hồn, rồi ý chí muốn trả lời nên tìm trong linh hồn để trả lời.
 
