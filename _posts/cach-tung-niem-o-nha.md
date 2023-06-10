@@ -51,3 +51,55 @@ Người tại gia tuy có thể tuỳ ý tự lập chương trình, nhưng ch�
 
 
 (Người viết: Sau này sẽ chép kinh, sẽ lập lại những bước Pháp Sư Ấn Quang đã nhắc ở trên để dễ tu tập)
+
+Kinh được truyền dạy trong mộng tuy có lợi ích nhưng không cần phải niệm, vì 
+kinh chú quá nhiều, cần gì phải niệm những thứ đó? Tâm Kinh công đức cực lớn, 
+sao không niệm? Phàm tu trì nói chung hay nên giản lược; nếu niệm quá nhiều thứ, đâm ra 
+chẳng bằng chuyên niệm một thứ tốt hơn. Chỉ vì nhân dân hiện thời không ngày nào 
+chẳng ở trong cảnh nước sâu lửa bỏng, hãy nên niệm thêm [danh hiệu] Quán Thế 
+Âm Bồ Tát bao nhiêu đó câu; hoặc lập một thời riêng, hoặc trong công khoá, ngay sau khi 
+niệm Phật xong bèn niệm tiếp [danh hiệu] Quán Thế Âm Bồ Tát bao nhiêu đó câu; rồi tới 
+danh hiệu các vị Bồ Tát mỗi vị niệm ba lần hoặc niệm mười lần đều được. Còn như 
+để dạy cho người mới phát tâm, càng giản lược càng hay. 
+
+Cần biết rằng: Đạo lý căn bản của Niệm Phật là muốn làm cho con người sanh lòng tin, phát 
+nguyện cầu sanh Tây phương liễu thoát sanh tử, chớ nên chỉ phát tâm cầu sự giàu - vui 
+trong thế gian mà chẳng cầu sanh Tây phương. Hễ nhất tâm niệm Phật cầu sanh Tây phương 
+thì tai nạn trong thế gian cũng được tiêu diệt, chứ không phải là niệm Phật chẳng thể 
+tiêu diệt tai nạn! Quán Thế Âm Bồ Tát tiếp dẫn chúng sanh vãng sanh Tây Phương. Niệm Quán Thế Âm 
+cũng cần phải trước hết là nhằm cầu tiêu trừ tai nạn, nhưng chánh yếu là cầu vãng 
+sanh Tây Phương. 
+
+Hãy nên nói với người hữu duyên: Ai nấy phải giữ vẹn luân thường, trọn hết bổn phận, 
+dứt lòng tà, giữ lòng thành, đừng làm các điều ác, vâng giữ các điều lành, chí thành 
+niệm Phật và Quán Thế Âm sẽ có thể chuyển hoá được túc nghiệp, chẳng mắc phải những 
+khổ ách vì thiên tai nhân hoạ. Hơn nữa, con người hiện thời đã xa hoa đến mức cực điểm. 
+Đất Tần vốn chất phác, nghe nói gần đây cũng nhiễm theo thói [xa hoa] hiện thời! Hãy nên 
+gắng khuyên lơn gia quyến thường nghĩ đến lúc gặp tai nạn để chẳng đến nỗi nhiễm phải 
+thói ác ấy. Nếu đã nhiễm, hãy cực lực sửa đổi, trừ bỏ. Kẻ nhỏ tuổi càng nên phải học tánh chất phác!
+
+Ông không hiểu việc quá mức, trong khoá tụng sáng tối, lúc lễ Phật sao lại đem tên Ấn Quang 
+đặt trước danh hiệu Phật để lễ, sao không biết tôn ty - thánh phàm đến mức như thế? 
+Đừng nói Ấn Quang là một gã phàm phu nghiệp lực vô tri vô thức; dẫu là cổ đức, hay Phật thị hiện giáng sanh, hoặc 
+là Bồ Tát thị hiện giáng sanh, vẫn chẳng thể kể theo bổn địa được! Do họ đã hiện thân làm Tăng, 
+chắc chắn phải đứng sau Phật, Bồ Tát thì mới đúng lối phù hợp với cả Bổn lẫn Tích. Nếu tâm ông cảm kích Quang, 
+thì có thể sau khi tụng công khoá xong, trong tâm thầm đảnh lễ một lạy, thì đối với 
+nhân tình lẫn thiên lý đều không trái nghịch! Nếu ông sắp xếp theo kiểu ấy (tức là đem 
+danh hiệu Ấn Quang để lễ trước khi lễ Phật - chú thích của người dịch) chẳng những ông 
+tội lỗi khôn cùng mà còn làm cho Ấn Quang cũng bị tội theo ông. Đấy không phải là ông tâng bốc 
+Quang mà là hãm hại Quang! Nếu ông có thể chí thành niệm Phật tự lợi, lợi người, dẫu chẳng lễ 
+Quang cũng đâu thiếu sót gì! (Ngày mười bốn tháng bảy năm Dân Quốc 21 - 1932)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
