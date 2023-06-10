@@ -4,7 +4,11 @@ author: Pháp Sư Ấn Quang
 title: Cách tụng kinh niệm Phật khi ở nhà 
 ---
 
-Trích dẫn từ lá thư thứ 9 - trả lời cư sĩ Ninh Đức Tấn 
+Trích dẫn từ lá thư thứ 9 - trả lời cư sĩ Ninh Đức Tấn
+(Ngày mười bốn tháng bảy năm Dân Quốc 21 - 1932) 
+
+Nhận được thư đầy đủ. Đã nhận được năm đồng rồi, đừng lo. Khoá trình do ông đã lập 
+tạp loạn, không có thứ tự.
 
 Sáng dậy rửa ráy, súc miệng xong, đến trước Phật thắp 1 nén hương, hoặc ba nén. Niệm bài Hương Tán 1 biến, niệm Hương Vân Cái Bồ Tát ba lần, nhất tâm 
 đảnh lễ Thường Trụ Thập Phương Tam Bảo (niệm ba lần ba lễ, hoặc niệm một lần một lễ).
@@ -88,18 +92,4 @@ nhân tình lẫn thiên lý đều không trái nghịch! Nếu ông sắp xế
 danh hiệu Ấn Quang để lễ trước khi lễ Phật - chú thích của người dịch) chẳng những ông 
 tội lỗi khôn cùng mà còn làm cho Ấn Quang cũng bị tội theo ông. Đấy không phải là ông tâng bốc 
 Quang mà là hãm hại Quang! Nếu ông có thể chí thành niệm Phật tự lợi, lợi người, dẫu chẳng lễ 
-Quang cũng đâu thiếu sót gì! (Ngày mười bốn tháng bảy năm Dân Quốc 21 - 1932)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Quang cũng đâu thiếu sót gì! 
