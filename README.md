@@ -8,3 +8,19 @@ The project is deployed using Github Pages.
 ### How to add a new page
 1. Create a new .md file, under the root source of this repo. For example: about.md
 2. Add it to the _data/menu.yml
+
+## How to run the project local
+### Install Ruby
+```brew install ruby```
+### Install Bundler & Jekyll
+```
+gem install bundler --user-install
+```
+### Install dependencies
+```
+bundle install
+```
+### Run the project
+```
+bundle exec jekyll serve
+```
