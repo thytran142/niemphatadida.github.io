@@ -3,6 +3,7 @@ layout: post
 author: Pháp Sư Ấn Quang 
 title: Cách tụng kinh niệm Phật khi ở nhà 
 ---
+(Tựa đề do người chép đặt)
 
 Trích dẫn từ lá thư thứ 9 - trả lời cư sĩ Ninh Đức Tấn
 (Ngày mười bốn tháng bảy năm Dân Quốc 21 - 1932) 
