@@ -6,8 +6,14 @@
   {%- seo -%}
   <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}"/>
   {%- feed_meta -%}
-  {%- include google-analytics.html -%}
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-QM056HLH26"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
 
+    gtag('config', 'G-QM056HLH26');
+  </script>
   <!-- highlight.js support -->
   <link rel="stylesheet" href="/js/highlightjs/styles/github.css">
   <link rel="stylesheet" href="/js/highlightjs/styles/ssms.css" />
