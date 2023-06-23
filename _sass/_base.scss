@@ -140,7 +140,7 @@ main {
     display: flex;
     flex-direction: row;
     justify-content: center;
-    width: min($max-content-width, 100vw);
+    width: "min($max-content-width, 100vw)";
     margin: 0 auto;
   }
   .nav {
