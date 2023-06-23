@@ -2,7 +2,8 @@
 layout: post
 author: Hoà Thượng Thích Giác Khang 
 title: Cõi ta bà này có đau khổ hay không?
-category: Khai Thị
+category: khai_thi
+author_short: thich_giac_khang_hoa_thuong
 ---
 
 

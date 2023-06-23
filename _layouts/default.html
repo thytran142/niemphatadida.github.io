@@ -11,6 +11,7 @@
     {% if site.description %}<meta name="description" content="{{ site.description }}">{% endif %}  
 
     <link rel="stylesheet" href="{{ '/assets/css/main.css' | absolute_url }}?{{ site.time | date: '%s%N' }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
 
     <link rel="apple-touch-icon" href="{{ site.icon }}">
     {% if jekyll.environment =='production' %}
@@ -29,27 +30,9 @@
       <a href="#main" class="skip-navigation">
         Skip to list of posts
       </a>
-    {% else %}
-      <a href="#main" class="skip-navigation">
-        Skip to content
-      </a>
     {% endif %}
 
     {{ content }}
-
-    {% unless site.hide_search %}
-      {% include search.html %}
-    {% endunless %}
-
-    {% include menu.html %}
-
-    {% unless site.hide_credits %}
-      <aside class="site-credits">
-        <p>
-          <small><a href="https://github.com/patdryburgh/hitchens">Hitchens Theme</a> powered by <a href="http://jekyllrb.com">Jekyll</a></small>
-        </p>
-      </aside>
-    {% endunless %}
 
   </body>
 </html>

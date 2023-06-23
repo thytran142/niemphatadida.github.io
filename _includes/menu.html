@@ -1,26 +1,28 @@
 {% assign menu = site.data.menu %}
 
-{% if menu %}
-  <nav class="site-navigation" role="navigation">
-    <ul>
-      <li>
-        <a href="{{ '/' | prepend: site.baseurl }}">
-          Home
-        </a>
-      </li>
-    {% for item in site.data.menu %}
-      <li {% if page.url == item.url %}class="active"{% endif %}>
-        {% if item.url contains 'http' %}
-          <a href="{{ item.url }}">
-            {{ item.title }}
-          </a>
-        {% else %}
-          <a href="{{ item.url | prepend: site.baseurl }}">
-            {{ item.title }}
-          </a>
-        {% endif %}
-      </li>
+
+<div class="sub-menu">
+    <a href="{{ '/' | prepend: site.baseurl }}">
+        Trang chủ
+    </a>
+    {% if menu %}
+    {%for item in site.data.menu %}
+    {% if item.subMenus && item.subMenus.size > 0 %}
+    <div class="sub-menu-nav">
+        <button class="nav-button">{{item.title}}</button>
+        <div class="sub-menu-alt">
+            {% for subMenu in item.subMenus %}
+            {% assign subMenuUrl = subMenu.url contains 'http' ? subMenu.url : subMenu.url | prepend: site.baseurl %}
+            <a {%if page.url== subMenu.url %} class="active" {% endif %} href="{{ subMenuUrl }}">{{ subMenu.title }}</a>
+            {% endfor %}
+        </div>
+    </div>
+    {%else%}
+    {% assign url = item.url contains 'http' ? item.url : item.url | prepend: site.baseurl %}
+    <a {%if page.url== item.url %} class="active" {% endif %}
+       href="{{url}}">{{item.title}}</a>
+    {%endif%}
     {% endfor %}
-    </ul>
-  </nav>
-{% endif %}
+    {% endif %}
+</div>
+

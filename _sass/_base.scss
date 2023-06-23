@@ -113,10 +113,51 @@ figcaption {
 }
 
 .home {
-  max-width: 24em;
-  margin: auto;
+  display:flex;
+  flex-direction: column;
+  gap: 2rem;
+  min-height: 100vh;
+  position: relative;
   padding: 4em 1em;
 }
+.content {
+  flex: 1 1 auto;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+.nav {
+  padding: 0 1rem;
+  transition: transform 200ms ease-in-out;
+}
+main {
+  flex: 1 1 auto;
+  padding: 0 1rem;
+}
+@media (min-width: $on-tablet) {
+  .content {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: min($max-content-width, 100vw);
+    margin: 0 auto;
+  }
+  .nav {
+    transform: translateX(0);
+    flex: 0 0 $nav-column-width;
+    padding: 0 2rem;
+  }
+  main {
+    padding-right: 2rem;
+  }
+}
+@media (min-width: $on-desktop) {
+  main {
+    padding-right: 4.5rem;
+  }
+}
+
 
 .content-title {
   font-size: 2em;

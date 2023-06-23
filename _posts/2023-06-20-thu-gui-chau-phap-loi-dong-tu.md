@@ -2,6 +2,8 @@
 layout: post
 author: Pháp sư Ấn Quang
 title: Lời khuyên của Pháp Sư Ấn Quang cho người tuổi nhỏ 
+author_short: an_quang_phap_su
+category: khai_thi
 ---
 (Tựa đề do người chép đặt)
 

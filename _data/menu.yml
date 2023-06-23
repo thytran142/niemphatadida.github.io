@@ -1,3 +1,13 @@
-#- title: About
-#  url: /about.html
+#- title: Kinh nhựt tụng
+#  url: ''
+#- title: Khai thị
+#  subMenus:
+#    - title: Pháp sư Ấn Quang
+#      url: /about.html
+#    - title: Pháp sư Tịnh Không
+#      url: /about.html
+#    - title: Pháp sư Tuyên Hoá
+#      url: /about.html
+#    - title: Hoà thượng Thích Giác Khang
+#      url: /about.html
 

@@ -2,6 +2,7 @@ $brand-color:         #fede00;
 $highlight:           lighten($brand-color, 35%);
 $text-color:          #0b0404;
 $muted-text-color:    #64644B;
+$grey-color:          #f1f1f1;
 $font-family:         "EB Garamond", Garamond, "Times New Roman", serif;
 
 $on-bigphone:         375px;
@@ -12,3 +13,6 @@ $on-desktop:          1200px;
 
 $body-bg: #f6f6f6;
 $body-text: #222;
+
+$max-content-width: 100%;
+$nav-column-width: 256px;

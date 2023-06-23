@@ -1,38 +1,55 @@
-.site-navigation {
-  margin-top: 2rem;
-  padding: 0 1rem;
-  &:hover,
-  &:focus-within {
-    a {
-      opacity: .7;
-    }
-  }
-}
-
-.site-navigation ul {
-  margin: 0;
+.sub-menu {
   display: flex;
-  flex-wrap: wrap;
   justify-content: center;
-}
-
-.site-navigation li {
-  list-style: none;
+  overflow: hidden;
   font-size: .875em;
   font-variant: small-caps;
-  margin: 0;
-  &.active a {
-    text-decoration: underline;
-  }
 }
-
-.site-navigation a {
-  display: block;
-  padding: .25em .5em;
+.sub-menu a {
+  float: left;
+  min-width: 90px;
+  text-align: center;
   text-decoration: none;
+  margin: 0;
+  padding: .25em .5em;
   transition: opacity .125s ease-in-out;
-  &:hover,
-  &:focus {
-    opacity: 1;
-  }
+}
+.sub-menu a.active {
+  text-decoration: underline;
+}
+.sub-menu-nav {
+  float: left;
+  overflow: hidden;
+}
+.sub-menu-nav .nav-button {
+  cursor: pointer;
+  min-width: 120px;
+  border: none;
+  outline: none;
+  padding: 0.25em .5em;
+  background-color: inherit;
+  font-family: inherit;
+  font-size: inherit;
+  margin: 0;
+  transition: all .5s;
+}
+.sub-menu a:hover, .sub-menu-nav:hover .nav-button {
+  background-color: $brand-color;
+}
+.sub-menu-alt {
+  display: none;
+  position: absolute;
+  background-color: $brand-color;
+  z-index: 1;
+}
+.sub-menu-alt a {
+  min-width: 90px;
+  float: left;
+  text-decoration: none;
+}
+.sub-menu-alt a:hover {
+  background-color: $highlight;
+}
+.sub-menu-nav:hover .sub-menu-alt {
+  display: block;
 }
