@@ -37,10 +37,11 @@ category: khai_thi
 author_short: ${author_short}
 ---`;
         const today = new Date();
-        const month = today.getMonth() + 1;
+        let month = today.getMonth() + 1;
         const year = today.getFullYear();
-        const day = today.getDate();
-
+        let day = today.getDate();
+        month = month < 10 ? `0${month}` : month;
+        day = day < 10 ? `0${day}` : day;
         const fileName = `${year}-${month}-${day}-${title.toLowerCase().replace(/ /g, '-')}.md`;
         const filePath = `_posts/${fileName}`;
         fs.writeFile(filePath, fileContent, (err) => {
