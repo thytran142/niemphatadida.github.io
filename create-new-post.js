@@ -10,7 +10,8 @@ rl.question('Tên Pháp Sư (nhấn số): \n ' +
     '1. Pháp sư Ấn Quang\n' +
     '2. Pháp sư Tịnh Không\n' +
     '3. Pháp sư Tuyên Hoá\n' +
-    '4. Hoà thượng Thích Giác Khang: ', (author_short) => {
+    '4: Hoà thượng Thích Giác Khang: ' +
+    '5. An Sĩ Toàn Thư (sách)', (author_short) => {
     rl.question('Enter the title: ', (title) => {
         let authorName = "";
         switch (author_short) {
@@ -25,6 +26,9 @@ rl.question('Tên Pháp Sư (nhấn số): \n ' +
                 break;
             case "4":
                 authorName = "Hoà thượng Thích Giác Khang";
+                break;
+            case "5":
+                authorName = "An Sĩ Toàn Thư (sách)";
                 break;
             default:
                 authorName = "";
