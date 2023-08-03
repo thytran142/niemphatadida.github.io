@@ -4,11 +4,11 @@ author: Pháp sư Ấn Quang
 title: Mắc bệnh không chữa được, phải làm sao? 
 category: khai_thi
 author_short: 1
+quote:  Trích từ Ấn Quang Pháp Sư Văn Sao Tam Biên (Trích từ thư của Pháp Sư Ấn Quang trả lời cư sĩ Hoàng Hàm (thư thứ nhất))
+translate_by: Bửu Quang tự đệ tử Như Hoà
+giaochanh: Minh Tiến và Huệ Trang, theo bản in của Cổ Tấn Báo Ân Niệm Phật Đường, năm 2002.
 ---
-(Tựa đề do người chép đặt)
 
-
-_Trích từ thư của Pháp Sư Ấn Quang trả lời cư sĩ Hoàng Hàm (thư thứ nhất)_
 
 Nhận được thư biết phu nhân (vợ - người chép) mắc phải bệnh tật đã hơn cả tháng. Dùng thuốc khó khăn, các thầy 
 thuốc đều bó tay. Nhằm ngay lúc này, đúng là lúc nên dùng thuốc A Già Đà trị chung vạn bệnh. Các hạ hay đem 

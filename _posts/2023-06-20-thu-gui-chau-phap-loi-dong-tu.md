@@ -4,11 +4,10 @@ author: Pháp sư Ấn Quang
 title: Lời khuyên của Pháp Sư Ấn Quang cho người tuổi nhỏ 
 author_short: an_quang_phap_su
 category: khai_thi
+quote:  Trích từ Ấn Quang Pháp Sư Văn Sao Tam Biên (Trích từ thư của Pháp Sư Ấn Quang gửi Châu Pháp Lợi Đồng Tử)
+translate_by: Bửu Quang tự đệ tử Như Hoà
+giaochanh: Minh Tiến và Huệ Trang, theo bản in của Cổ Tấn Báo Ân Niệm Phật Đường, năm 2002.
 ---
-(Tựa đề do người chép đặt)
-
-
-_Trích từ thư của Pháp Sư Ấn Quang gửi Châu Pháp Lợi Đồng Tử_
 
 Con người một đời thành hay bại đều do lúc niên thiếu nhiều phen tài bồi mà ra. Ngươi đã thành đồng tử, phải biết tốt-xấu, trọn 
 chẳng được học đòi những thói thời thượng, hãy nên học Hiếu, học Đễ, học Trung Hậu, Thành Thật. Trong lúc tuổi trẻ này, tinh lực 

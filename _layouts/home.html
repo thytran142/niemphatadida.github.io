@@ -20,13 +20,6 @@ layout: default
     {% include side-menu.html %}
   </nav>
   <main>
-    <h1 class="content-title divided">
-      {% if site.paginate and site.paginate_path and paginator.page > 1 %}
-        Trang  {{ paginator.page }}
-      {% else %}
-        Nội dung
-      {% endif %}
-    </h1>
     {% if site.paginate and site.paginate_path %}
       <ul class="post-list">
         {% for post in paginator.posts %}

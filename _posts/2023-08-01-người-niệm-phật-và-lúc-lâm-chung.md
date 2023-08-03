@@ -4,7 +4,11 @@ author: Pháp sư Ấn Quang
 title: Người niệm Phật và lúc lâm chung
 category: khai_thi
 author_short: 1
+quote:  Trích từ Ấn Quang Pháp Sư Văn Sao Tam Biên
+translate_by: Bửu Quang tự đệ tử Như Hoà
+giaochanh: Minh Tiến và Huệ Trang, theo bản in của Cổ Tấn Báo Ân Niệm Phật Đường, năm 2002.
 ---
+
 
 Chuyện của Phước Tuấn theo như lời kể lúc còn sống và sau khi đã mất, nếu mọi điều đều thật thì chắc chắn là vãng sanh!
 

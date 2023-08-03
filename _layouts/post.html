@@ -4,7 +4,6 @@ layout: default
 {% include menu.html %}
 
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting" id="main" role="article" aria-label="Content">
-  {% include back-link.html %}
   {% if page.title != "" %}
   <h1 class="post-title divided p-name" itemprop="name headline">
     {{ page.title }}
@@ -18,6 +17,21 @@ layout: default
   <div class="post-meta">
     {% if page.author %}
     <div itemprop="author">{{ page.author }}</div>
+    {% endif %}
+
+    {% if page.quote %}
+    <div itemprop="author_quote">{{ page.quote }}</div>
+    {% endif %}
+
+    {%if page.translate_by %}
+    <div itemprop="author_translate_by">
+       Chuyển ngữ {{ page.translate_by }}
+    </div>
+    {% endif %}
+    {%if page.giaochanh %}
+    <div itemprop="author_giaochanh">
+      Giảo chánh {{page.giaochanh}}
+    </div>
     {% endif %}
     <time class="post-date dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">Ngày đăng bài: {{ page.date | date: "%B %-d, %Y" }}</time>
   </div>

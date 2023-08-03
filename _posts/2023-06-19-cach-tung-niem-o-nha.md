@@ -1,11 +1,14 @@
 ---
 layout: post
-author: Pháp Sư Ấn Quang 
+author: Pháp Sư Ấn Quang
 title: Cách tụng kinh niệm Phật khi ở nhà 
 category: khai_thi
 author_short: an_quang_phap_su
+quote:  Trích từ Ấn Quang Pháp Sư Văn Sao Tam Biên (Trích dẫn từ lá thư thứ 9 - trả lời cư sĩ Ninh Đức Tấn)
+translate_by: Bửu Quang tự đệ tử Như Hoà
+giaochanh: Minh Tiến và Huệ Trang, theo bản in của Cổ Tấn Báo Ân Niệm Phật Đường, năm 2002.
 ---
-(Tựa đề do người chép đặt)
+
 
 Trích dẫn từ lá thư thứ 9 - trả lời cư sĩ Ninh Đức Tấn
 (Ngày mười bốn tháng bảy năm Dân Quốc 21 - 1932) 

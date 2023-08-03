@@ -1,28 +1,28 @@
 
-{% assign menu = site.data.menu %}
+<!--{% assign menu = site.data.menu %}-->
 
-<div class="side-menu">
-    <a href="{{ '/' | prepend: site.baseurl }}" {% if page.url == "/" %} class="active" {% endif %}>
-        Trang chủ
-    </a>
-    {%if menu %}
-    {%for item in site.data.menu %}
-        {%if item.subMenus && item.subMenus.size > 0 %}
-            <div class="side-menu-group">
-                <a href="#" class="heading" id="group{{forloop.index}}">{{item.title}} <span class="fas fa-caret-down"></span></a>
-                <div class="group hidden" id="group{{forloop.index}}-submenu">
-                    {% for subMenu in item.subMenus %}
-                        {% assign subMenuUrl = subMenu.url contains 'http' ? subMenu.url : subMenu.url | prepend: site.baseurl %}
-                        <a {%if page.url == subMenu.url %} class="active" {% endif %} href="{{ subMenuUrl }}">{{ subMenu.title }}</a>
-                    {% endfor %}
-                </div>
-            </div>
-        {%else%}
-            {% assign url = item.url contains 'http' ? item.url : item.url | prepend: site.baseurl %}
-            <a {%if page.url == item.url %} class="active" {% endif %} href="{{url}}" >{{item.title}}</a>
-        {%endif%}
-    {%endfor%}
-    {%endif%}
-</div>
+<!--<div class="side-menu">-->
+<!--    <a href="{{ '/' | prepend: site.baseurl }}" {% if page.url == "/" %} class="active" {% endif %}>-->
+<!--        Trang chủ-->
+<!--    </a>-->
+<!--    {%if menu %}-->
+<!--    {%for item in site.data.menu %}-->
+<!--        {%if item.subMenus && item.subMenus.size > 0 %}-->
+<!--            <div class="side-menu-group">-->
+<!--                <a href="#" class="heading" id="group{{forloop.index}}">{{item.title}} <span class="fas fa-caret-down"></span></a>-->
+<!--                <div class="group hidden" id="group{{forloop.index}}-submenu">-->
+<!--                    {% for subMenu in item.subMenus %}-->
+<!--                        {% assign subMenuUrl = subMenu.url contains 'http' ? subMenu.url : subMenu.url | prepend: site.baseurl %}-->
+<!--                        <a {%if page.url == subMenu.url %} class="active" {% endif %} href="{{ subMenuUrl }}">{{ subMenu.title }}</a>-->
+<!--                    {% endfor %}-->
+<!--                </div>-->
+<!--            </div>-->
+<!--        {%else%}-->
+<!--            {% assign url = item.url contains 'http' ? item.url : item.url | prepend: site.baseurl %}-->
+<!--            <a {%if page.url == item.url %} class="active" {% endif %} href="{{url}}" >{{item.title}}</a>-->
+<!--        {%endif%}-->
+<!--    {%endfor%}-->
+<!--    {%endif%}-->
+<!--</div>-->
 
-<script type="text/javascript" src="/js/side-menu.js"></script>
+<!--<script type="text/javascript" src="/js/side-menu.js"></script>-->

@@ -4,10 +4,11 @@ author: Pháp sư Ấn Quang
 title: Đừng in danh hiệu Phật, Bồ Tát lên vải bọc đệm quỳ lễ 
 category: khai_thi
 author_short: 1
+quote:  Trích từ Ấn Quang Pháp Sư Văn Sao Tam Biên (Trích từ thư của Pháp Sư Ấn Quang trả lời cư sĩ Mã Khế Tây (Thư thứ mười hai))
+translate_by: Bửu Quang tự đệ tử Như Hoà
+giaochanh: Minh Tiến và Huệ Trang, theo bản in của Cổ Tấn Báo Ân Niệm Phật Đường, năm 2002.
 ---
-(Tựa đề do người chép đặt)
 
-_Trích từ thư của Pháp Sư Ấn Quang trả lời cư sĩ Mã Khế Tây (Thư thứ mười hai)_
 
 Đương gia của hạ viện đem thơ Nhậm Niên gởi đến và gói hàng giao cho Quang, mới biết vải trơn được gởi tới 
 là nhờ Nhậm Niên in. Chuyện này tội lỗi đến cùng cực, đem danh hiệu của Bồ Tát [in trên vải] làm đệm quỳ để lễ, thuộc 

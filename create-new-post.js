@@ -14,9 +14,15 @@ rl.question('Tên Pháp Sư (nhấn số): \n ' +
     '5. An Sĩ Toàn Thư (sách)', (author_short) => {
     rl.question('Enter the title: ', (title) => {
         let authorName = "";
+        let quote = null;
+        let translateBy = null;
+        let giaochanh = null;
         switch (author_short) {
             case "1":
                 authorName = "Pháp sư Ấn Quang";
+                quote = "Trích từ Ấn Quang Pháp Sư Văn Sao Tam Biên";
+                translateBy = " Bửu Quang tự đệ tử Như Hoà";
+                giaochanh = "Minh Tiến và Huệ Trang, theo bản in của Cổ Tấn Báo Ân Niệm Phật Đường, năm 2002.";
                 break;
             case "2":
                 authorName = "Pháp sư Tịnh Không";
@@ -39,6 +45,9 @@ author: ${authorName}
 title: ${title}
 category: khai_thi
 author_short: ${author_short}
+quote: ${quote}
+translateBy: ${translateBy}
+giaochanh: ${giaochanh}
 ---`;
         const today = new Date();
         let month = today.getMonth() + 1;
