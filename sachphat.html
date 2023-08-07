@@ -1,0 +1,45 @@
+---
+layout: default
+---
+{% assign books = site.data.books %}
+
+<section class="section-content">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12 col-md-12">
+                {% for book in books %}
+                <article class="content-item">
+                    <div class="entry-media">
+                        <div class="post-content">
+                            <div class="post-icon">
+                                <p></p>
+                            </div>
+                            <h3>
+                                {% assign href= '/assets/books/' | append: book.url %}
+                                <a href="{{ href | absolute_url }}">{{book.title}}</a>
+                            </h3>
+                            <hr class="post-horizontal-rule">
+                            <br/>
+                            <p class="sub-title">
+                                Soạn bởi: {{book.author}}
+                                {%if book.translate %}
+                                <br>
+                                Việt dịch: {{book.translate}}
+                                {% endif %}
+                                {%if book.giamdinh %}
+                                <br>
+                                Giám định: {{book.giamdinh}}
+                                {%endif%}
+                                {% if book.giaochanh %}
+                                <br>
+                                Giảo chánh: {{book.giaochanh}}
+                                {%endif%}
+                            </p>
+                        </div>
+                    </div>
+                </article>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</section>

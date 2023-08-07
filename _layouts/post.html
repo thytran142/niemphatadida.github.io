@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-{% include menu.html %}
 
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting" id="main" role="article" aria-label="Content">
   {% if page.title != "" %}
@@ -35,10 +34,6 @@ layout: default
     {% endif %}
     <time class="post-date dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">Ngày đăng bài: {{ page.date | date: "%B %-d, %Y" }}</time>
   </div>
-
-  {% if site.disqus.shortname %}
-  {% include disqus-comments.html %}
-  {% endif %}
 
   {% include navlinks.html %}
 </article>

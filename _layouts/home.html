@@ -2,51 +2,21 @@
 layout: default
 ---
 
-<header class="site-masthead">
-  {% if site.title %}
-  <h3>
-    {{ site.title }}
-  </h3>
-  {% endif %}
-  {% if site.title %}
-  <p>
-    {{ site.description }}
-  </p>
-  {% endif %}
-</header>
-
-<div class="content">
-  <nav class="nav">
-    {% include side-menu.html %}
-  </nav>
-  <main>
-    {% if site.paginate and site.paginate_path %}
-      <ul class="post-list">
-        {% for post in paginator.posts %}
-        {% include post-list-item.html %}
-        {% endfor %}
-      </ul>
-      {% if paginator.total_pages > 1 %}
-        <div class="post-pagination">
-          {% if paginator.next_page %}
-            <a href="{{ paginator.next_page_path | prepend: site.baseurl  }}" class="pagination-next btn">&lang;&nbsp;Cũ hơn</a>
-          {% else %}
-            <span>&nbsp;</span>
-          {% endif %}
-          <span class="pagination-number">{{ paginator.page }} of {{ paginator.total_pages }}</span>
-            {% if paginator.previous_page %}
-              <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="pagination-previous btn">Mới hơn&nbsp;&rang;</a>
-            {% else %}
-              <span>&nbsp;</span>
-            {% endif %}
+<section class="section-content">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12 col-md-12">
+                {% for post in paginator.posts %}
+                {% include post-list-item.html %}
+                {% endfor %}
+                {% if paginator.total_pages > 1 %}
+                {% include paginator.html %}
+                {% endif %}
+            </div>
+<!--            <div class="col-sm-4 sidebar">-->
+<!--                {% include widget-recent-posts.html %}-->
+<!--            </div>-->
         </div>
-      {% else %}
-        <ul class="post-list">
-          {% for post in site.posts %}
-            {% include post-list-item.html %}
-          {% endfor %}
-        </ul>
-      {% endif %}
-    {% endif %}
-  </main>
-</div>
+    </div>
+</section>
+

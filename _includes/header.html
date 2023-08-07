@@ -1,0 +1,41 @@
+<header id="header">
+  <div class="logo" data-bg-image="{{ '/assets/images/bg-header.jpg' | absolute_url }}">
+    <h1>
+      <a href="index.html">{{site.title}}</a>
+    </h1>
+    <p style="margin-top:2rem">
+      Nguyện sanh Tây-phương Tịnh độ trung.
+      <br/>
+      Cửu phẩm Liên hoa vi phụ mẫu
+      <br/>
+      Hoa khai kiến Phật ngộ Vô sanh.
+      <br/>
+      Bất thối Bồ-tát vi bạn lữ.
+    </p>
+  </div>
+  {% assign menu = site.data.menu %}
+  <div class="menu-container">
+    <div class="container">
+      <div class="row">
+        <div  class="col-md-12">
+          <nav class="main-nav">
+            <ul>
+              <li {%if page.url == "/" %} class="current-menu-item" {% endif %}>
+                <a href="{{ '/' | prepend: site.baseurl }}">Khai thị</a>
+              </li>
+              {%if menu %}
+                {%for item in site.data.menu %}
+                  {% assign subMenuUrl = item.url contains 'http' ? item.url : item.url | prepend: site.baseurl %}
+                  <li {%if page.url == item.url %} class="current-menu-item" {% endif %}>
+                    <a href="{{ subMenuUrl }}">{{item.title}}</a>
+                  </li>
+                {%endfor%}
+              {%endif%}
+            </ul>
+            <a href="javascript:;" id="close-menu"> <i class="fa fa-close"></i></a>
+          </nav>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>

@@ -12,11 +12,5 @@ $asset_url: '{{ '/assets' | absolute_url }}';
   "mixins",
   "font",
   "base",
-  "masthead",
-  "menu",
-  "post-list",
-  "article",
-  "footnotes",
-  "search",
-  "sidemenu"
+  "article"
 ;

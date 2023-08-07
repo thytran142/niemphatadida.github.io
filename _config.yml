@@ -1,6 +1,7 @@
 title: "Trang web về niệm Phật và học Phật"
 author: "Phật tử Diệu Thắng ghi chép"
 description: "1 Phật tử kiền thành muốn học Phật và chia sẻ." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
+keywords: "Niệm Phật, Pháp sư Ấn Quang, An Sĩ Toàn Thư, Kinh A Di Đà, Hoà thượng Tuyên Hoá, Hoà thượng Tịnh Không"
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
 email: "thytran142@hotmail.com"
@@ -24,5 +25,5 @@ plugins:
 paginate: 10
 paginate_path: "/page/:num/"
 show_excerpts: true
-excerpt_length: 20
+excerpt_length: 50
 hide_credits: true
