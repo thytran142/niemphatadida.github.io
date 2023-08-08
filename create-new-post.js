@@ -11,7 +11,11 @@ rl.question('Tên Pháp Sư (nhấn số): \n ' +
     '2. Pháp sư Tịnh Không\n' +
     '3. Pháp sư Tuyên Hoá\n' +
     '4: Hoà thượng Thích Giác Khang: ' +
-    '5. An Sĩ Toàn Thư (sách)', (author_short) => {
+    '5. An Sĩ Toàn Thư (sách)' +
+    '6. Viên Liễu Phàm - Trích từ sách Liễu Phàm Tứ Huấn',
+
+
+    (author_short) => {
     rl.question('Enter the title: ', (title) => {
         let authorName = "";
         let quote = null;
@@ -35,6 +39,12 @@ rl.question('Tên Pháp Sư (nhấn số): \n ' +
                 break;
             case "5":
                 authorName = "An Sĩ Toàn Thư (sách)";
+                break;
+            case "6":
+                authorName = "Viên Liễu Phàm";
+                quote = "Trích từ sách Liễu Phàm Tứ Huấn";
+                translateBy = "Tuệ Châu - Bùi Dư Long";
+                giaochanh = "Ấn Quang Đại Sư";
                 break;
             default:
                 authorName = "";
