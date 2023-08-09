@@ -142,7 +142,7 @@ strong {
   font-weight: bold;
 }
 
-a {
+.post-title a {
   color: var(--text-color);
 }
 
@@ -3225,6 +3225,9 @@ article.content-item .post-footer .content-social.grid a + a {
   .post-content {
     margin-top: 30px;
     padding: 0 30px;
+  }
+  .post-content a {
+    color: var(--brand-color);
   }
   
   .post-footer {
