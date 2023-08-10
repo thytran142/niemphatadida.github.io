@@ -37,6 +37,10 @@
   --muted-text-color: #64644B;
   --body-text: #222;
   --font-family: "EB Garamond", Garamond, "Times New Roman", serif;
+  --on-bigphone:         375px;
+  --on-tablet:           768px;
+  --on-laptop:           960px;
+  --on-desktop:          1200px;
 }
 
 
@@ -801,13 +805,16 @@ article.content-item .post-footer .content-social.grid a + a {
   background: white;
   margin: 2em auto;
   padding: 2em 0;
-  max-width: 120rem;
+}
+@media (min-width: 768px) {
+  .post {
+    max-width: 60%;
+  }
 }
 
 .post > * {
   margin-left: auto;
   margin-right: auto;
-  max-width: 60%;
   padding: 0 1em;
 }
 
