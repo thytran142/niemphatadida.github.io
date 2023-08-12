@@ -7,6 +7,7 @@ author_short: 6
 quote: Trích từ sách Liễu Phàm Tứ Huấn
 translateBy: Tuệ Châu - Bùi Dư Long
 giaochanh: Ấn Quang Đại Sư
+toc: true
 ---
 
 Liễu Phàm là người họ Viên, hiệu Liễu Phàm, tên Huỳnh, tự Khôn Nghị. Người Giang Nam sông Ngô, đời 

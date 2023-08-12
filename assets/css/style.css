@@ -820,8 +820,6 @@ article.content-item .post-footer .content-social.grid a + a {
 
 .post > h1 {
   font-size: 2em;
-  max-width: 48rem;
-  padding: 2em 1em;
   text-align: center;
 }
 
@@ -3612,3 +3610,27 @@ body {
   font-size: 2.5em;
   line-height: 1.5;
 }
+
+
+.toc:before {
+  content: "Mục lục";
+  font-size: 1.25em;
+  font-style: italic;
+}
+
+.toc__list {
+  border: 2px solid #eee;
+  border-radius: 4px;
+  line-height: 1.8rem;
+  padding: 1rem 1.5rem;
+  font-weight: 600;
+}
+
+.toc__sublist li {
+  padding-left: 1.25rem;
+}
+
+.toc-h2:first-child {
+  margin-top: 1rem;
+}
+

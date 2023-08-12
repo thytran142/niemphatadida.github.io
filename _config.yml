@@ -22,8 +22,17 @@ email: "thytran142@hotmail.com"
 markdown:
 plugins:
   - jekyll-paginate
+  - jekyll-toc
 paginate: 10
 paginate_path: "/page/:num/"
 show_excerpts: true
 excerpt_length: 50
 hide_credits: true
+
+
+# TOC Settings
+toc:
+  min_level: 1
+  max_level: 5
+  list_class: toc
+  sublist_class: toc__sublist

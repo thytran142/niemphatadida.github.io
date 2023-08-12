@@ -1,5 +1,6 @@
 ---
 layout: post
+toc: true
 author: Pháp Sư Ấn Quang
 title: Cách tụng kinh niệm Phật khi ở nhà 
 category: khai_thi

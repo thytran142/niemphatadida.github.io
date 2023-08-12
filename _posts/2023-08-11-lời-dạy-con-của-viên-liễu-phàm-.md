@@ -7,6 +7,7 @@ author_short: 6
 quote: Trích từ sách Liễu Phàm Tứ Huấn
 translateBy: Tuệ Châu - Bùi Dư Long
 giaochanh: Ấn Quang Đại Sư
+toc: true
 ---
 
 [Bài trước](/khai_thi/2023/08/09/cách-trì-chú-vô-niệm-để-cảm-ứng.html) nói về lời khai thị của Thiền sư Vân Cốc đối với Viên Liễu Phàm, rằng mạng sống con người có thể thay đổi được. Sau đó, ông viết lại 4 bài để dạy con của
