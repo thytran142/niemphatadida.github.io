@@ -58,6 +58,7 @@ author_short: ${author_short}
 quote: ${quote}
 translateBy: ${translateBy}
 giaochanh: ${giaochanh}
+toc: true
 ---`;
         const today = new Date();
         let month = today.getMonth() + 1;
