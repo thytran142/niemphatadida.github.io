@@ -8,6 +8,7 @@ quote: Trích từ sách Liễu Phàm Tứ Huấn
 translateBy: Tuệ Châu - Bùi Dư Long
 giaochanh: Ấn Quang Đại Sư
 toc: true
+excerpt: "Thế nào là thiện thẳng và thiện cong? Thế nào thiện âm hay thiện dương? Thế nào là thiện chánh hay thiện tà?"
 ---
 
 ### Giúp thương tôn kính đời là thiện. Nịnh, ghét bỡn cợt đời là ác
