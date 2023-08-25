@@ -8,6 +8,8 @@ quote: "Trích từ Ấn Quang Pháp Sư Văn Sao Tam Biên - Thư trả lời �
 translateBy:  Bửu Quang tự đệ tử Như Hoà
 giaochanh: Minh Tiến và Huệ Trang, theo bản in của Cổ Tấn Báo Ân Niệm Phật Đường, năm 2002.
 toc: true
+excerpt: "Nam Mô A Di Đà Phật chính là danh hiệu của đức giáo chủ Tây Phương Cực Lạc thế giới.Nam Mô cũng có khi viết là Nẵng Mồ, trong kinh thường dùng 
+chữ Nam Mô, ở đây dịch là .."
 ---
 
 ### Tu hành phải nên ứng biến với hoàn cảnh 
