@@ -5,7 +5,7 @@ const { Builder } = require('xml2js');
 
 
 const postsDir = '_posts';
-const sitemapPath = 'site.xml';
+const sitemapPath = 'sitemap.xml';
 
 // Function to sanitize title to make it a valid filename
 const sanitizeTitle = (title) => {
@@ -45,6 +45,15 @@ fs.readdir(postsDir, (err, files) => {
 
     // Generate the new sitemap
     const builder = new Builder();
-    const sitemapXML = builder.buildObject({ urlset });
+    const sitemapObject = {
+        urlset: {
+            $: {
+                xmlns: 'http://www.sitemaps.org/schemas/sitemap/0.9'
+            },
+            url: urlset.url
+        }
+    };
+
+    const sitemapXML = builder.buildObject(sitemapObject);
     fs.writeFileSync(sitemapPath, sitemapXML);
 });
