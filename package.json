@@ -1,0 +1,8 @@
+{
+  "name": "niemphatadida.github.io",
+  "version": "1.0.0",
+  "dependencies": {
+    "gray-matter": "^4.0.3",
+    "xml2js": "^0.6.2"
+  }
+}
