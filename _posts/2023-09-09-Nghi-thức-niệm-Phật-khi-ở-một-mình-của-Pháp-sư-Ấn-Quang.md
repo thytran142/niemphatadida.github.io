@@ -47,6 +47,8 @@ thời tụng kinh khác**. Nếu cùng làm trong một lúc thì phải tụng
 trước, kế đó tụng chú, rồi đến Tán Phật, niệm Phật, tiếp theo là phát
 nguyện, tam quy. Đấy chính là thứ tự quyết định chẳng thay đổi vậy.
 
+Xem thêm [Nghi thức niệm Phật khi ở một mình](/assets/books/Nghi-thức-niệm-Phật-một-mình-soạn-theo-lời-dạy-của-đại-sư-Ấn-Quang.pdf).
+
 ### Phương pháp niệm Phật
 
 #### Pháp thập niệm - niệm Phật đếm số
